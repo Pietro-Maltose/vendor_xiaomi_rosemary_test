@@ -1571,8 +1571,6 @@ PRODUCT_PACKAGES += \
     ImsService \
     HotwordEnrollmentOKGoogleCORTEXM4 \
     HotwordEnrollmentXGoogleCORTEXM4 \
-    mediatek-common \
-    mediatek-framework \
     mediatek-ims-base \
     mediatek-ims-common \
     mediatek-ims-extension-plugin \
@@ -1664,8 +1662,6 @@ PRODUCT_PACKAGES += \
     vendor_lib64_libpq_prot_so
 
 PRODUCT_BOOT_JARS += \
-    mediatek-common \
-    mediatek-framework \
     mediatek-ims-base \
     mediatek-ims-common \
     mediatek-ims-extension-plugin \
