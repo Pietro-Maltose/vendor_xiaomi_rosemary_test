@@ -1308,7 +1308,7 @@ PRODUCT_PACKAGES += \
     libfeatureiodrv_mem \
     libfft_vendor \
     libforkexecwrap \
-    libformatter \
+    libformatter_mtk \
     libgamehdr \
     libged \
     libgf_ca \
